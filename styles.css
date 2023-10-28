@@ -1,0 +1,15 @@
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: 2000;
+    text-align-last: center;
+}
+
+a {
+    color: teal;
+    font-weight: bold;
+}
+
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/33/603/640/vector-texture-ornament-wallpaper-preview.jpg);
+}
